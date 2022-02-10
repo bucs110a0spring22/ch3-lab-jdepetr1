@@ -8,18 +8,20 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+  Races 2 turtles using 2 different methods. 
+  Then draws proper polygons (erases completed polygon before drawing another)
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None
 
 ## REFERENCES:
- < List any outside resources used >
+ https://docs.python.org/3/library/random.html
+ https://docs.python.org/3/library/turtle.html
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ None
